@@ -34,32 +34,6 @@ Details about the dataset:
 - Heatmaps showing crime frequency by category
 - Bar charts comparing different types of crimes
 
-## 🔍 How to Run
-
-1. Clone the repository:
-```
-git clone https://github.com/yourusername/crime-statistics.git
-cd crime-statistics
-```
-
-2. Open the notebook:
-```
-jupyter notebook crime_statistics.ipynb
-```
-
-3. Install the required packages if necessary:
-```
-pip install -r requirements.txt
-```
-(You may create a requirements.txt file using `pip freeze > requirements.txt`)
-
-## ✅ Status
-
-This notebook is a work in progress and may be updated with:
-- More advanced statistical analysis or predictive modeling
-- Integration with interactive visualizations using Plotly or Dash
-- Regional comparisons if multiple datasets are used
-
 ## 📄 License
 
 (Include license if any, e.g., MIT License)
