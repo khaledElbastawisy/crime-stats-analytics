@@ -64,10 +64,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn
    ```
 4. Run cells sequentially to reproduce the analysis and visualizations.
 
-## Author
-
-* **Khaled Elbastawisy** (Master’s Student, University of Alberta)
-* **Mohamed Khalil** (PhD student, Georgetown University)
+## Authors
+- [Mohamed Ahmed](https://github.com/mahmedken)
+- [Khaled El Bastawesy](https://github.com/khaledElbastawisy)
 
 ## License
 
